@@ -1,0 +1,7 @@
+<Glide Version="1.0.7">
+  <Window Name="instance115" Width="320" Height="240" BackColor="000000">
+    <TextBlock Name="instance353" X="0" Y="0" Width="320" Height="32" Alpha="255" Text="Executing code..." TextAlign="left" TextVerticalAlign="Middle" Font="4" FontColor="e6f2ff" BackColor="0040ff" ShowBackColor="True"/>
+    <Image Name="imgCode" X="0" Y="33" Width="320" Height="170" Alpha="255"/>
+    <Button Name="btnBack" X="235" Y="206" Width="80" Height="32" Alpha="255" Text="Back" Font="4" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+  </Window>
+</Glide>

@@ -1,0 +1,8 @@
+<Glide Version="1.0.7">
+  <Window Name="instance115" Width="320" Height="240" BackColor="FFFFFF">
+    <Dropdown Name="cmbFile" X="10" Y="10" Width="300" Height="32" Alpha="255" Text="Select:" Font="4" FontColor="000000"/>
+    <TextBox Name="txtCode" X="10" Y="48" Width="300" Height="150" Alpha="255" Text="type your basic code here..." TextAlign="Left" Font="4" FontColor="000000"/>
+    <Button Name="btnExec" X="229" Y="203" Width="80" Height="32" Alpha="255" Text="Execute" Font="4" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+    <Button Name="btnClear" X="139" Y="203" Width="80" Height="32" Alpha="255" Text="Clear" Font="4" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+  </Window>
+</Glide>
